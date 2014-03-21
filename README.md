@@ -1,7 +1,9 @@
 Guava & Java 8 Presentation
 ===========================
 
-See `presentation/index.html` for presentation.
+View presentation [here](https://robinst.github.io/guava-java8-presentation/).
+
+See `presentation/index.html` for source of presentation.
 
 Example code is in `examples` project.
 
